@@ -1,0 +1,2 @@
+# latest-popular-posts-cc
+Latest Popular Posts CC is a very powerful widget wordpress pluginfor WordPress which shows your most recent or latest popular posts, category based with thumbnails, date &amp; endless color on different style. This is simply perfect for simple websites &amp; online mags. Widgets come with highly-customizable control panels. Easy to use and support multi-widget even in the same sidebar.
